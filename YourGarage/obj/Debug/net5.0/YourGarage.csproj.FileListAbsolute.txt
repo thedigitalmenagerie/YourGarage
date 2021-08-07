@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.AssemblyInfo.cs
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\YourGarage\YourGarage\bin\Debug\net5.0\YourGarage.exe
+C:\Users\honey\source\repos\YourGarage\YourGarage\bin\Debug\net5.0\YourGarage.deps.json
+C:\Users\honey\source\repos\YourGarage\YourGarage\bin\Debug\net5.0\YourGarage.runtimeconfig.json
+C:\Users\honey\source\repos\YourGarage\YourGarage\bin\Debug\net5.0\YourGarage.runtimeconfig.dev.json
+C:\Users\honey\source\repos\YourGarage\YourGarage\bin\Debug\net5.0\YourGarage.dll
+C:\Users\honey\source\repos\YourGarage\YourGarage\bin\Debug\net5.0\ref\YourGarage.dll
+C:\Users\honey\source\repos\YourGarage\YourGarage\bin\Debug\net5.0\YourGarage.pdb
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.dll
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\ref\YourGarage.dll
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.pdb
+C:\Users\honey\source\repos\YourGarage\YourGarage\obj\Debug\net5.0\YourGarage.genruntimeconfig.cache
